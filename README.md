@@ -37,7 +37,6 @@ vykonava zapis na standartny vystup.
 <br />
 
 ### 4. Implementovane rozsirenia
-<br />
 
 #### 4.1 STATP
 Pre jednotlive parametre som vytvoril premenne, ktore postupne za behu programu inkrementujem, a na konci 
@@ -47,6 +46,4 @@ programu podla toho ci su ziadane alebo nie vypisem do vystupneho suboru.
 #### 4.2 NVP
 Ako triedu som pouzil uz spominany XMLWriter. Pre pracu s nim som pouzil oficialnu dokumentaciu  <br />
 
-"""
-https://www.php.net/manual/en/book.xmlwriter.php
-"""
+[Link text Here]https://www.php.net/manual/en/book.xmlwriter.php
