@@ -45,7 +45,7 @@ programu podla toho ci su ziadane alebo nie vypisem do vystupneho suboru. \
 <br />
 
 #### NVP
-Ako triedu som pouzil uz spominany XMLWriter. Pre pracu s nim som pouzil oficialnu dokumentaciu  \
+Ako triedu som pouzil uz spominany XMLWriter. Pre pracu s nim som pouzil oficialnu dokumentaciu  
 
 """
 ahoj
