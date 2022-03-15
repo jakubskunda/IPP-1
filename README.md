@@ -46,4 +46,6 @@ programu podla toho ci su ziadane alebo nie vypisem do vystupneho suboru. \
 
 #### NVP
 Ako triedu som pouzil uz spominany XMLWriter. Pre pracu s nim som pouzil oficialnu dokumentaciu  \
-"""https://www.php.net/manual/en/book.xmlwriter.php"""
+"""
+https://www.php.net/manual/en/book.xmlwriter.php
+"""
